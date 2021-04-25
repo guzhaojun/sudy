@@ -19,6 +19,7 @@
 
 - [1.第一次测试github 提交](#github-stats-card)
 - [2.修改个人主页](#github-extra-pins)
+- [3.ocr 识别开发](#github-extra-pins)
 
 # GitHub Stats Card
 
